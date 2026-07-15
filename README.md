@@ -15,32 +15,8 @@
 📱 Building AI-powered and real-time mobile products  
 🪖 Former KATUSA, shaped by adaptability, ownership, and cross-cultural teamwork  
 
-📍 Minneapolis, MN / Seoul, South Korea  
-📧 Email: [YOUR_EMAIL](mailto:YOUR_EMAIL)  
-🔗 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](YOUR_LINKEDIN_URL)
-
----
-
-## Education
-
-**University of Minnesota Twin Cities**  
-Bachelor's Degree in Computer Science · Expected 2028
-
----
-
-## Experience
-
-### Research Intern · Yonsei University Medical Imaging AI Lab
-
-- Working with longitudinal **T1, DTI, mGRE, and resting-state fMRI** datasets
-- Exploring MRI preprocessing workflows including denoising, skull stripping, registration, and DICOM-to-NIfTI conversion
-- Developing experience with **PyTorch, deep learning, medical imaging, and longitudinal data analysis**
-- Supporting the development of a community-facing MRI and AI research outreach program
-
-### KATUSA · Korean Augmentation to the United States Army
-
-- Worked in a bilingual and cross-cultural military environment alongside U.S. Army personnel
-- Developed adaptability, accountability, communication, and ownership under structured operational conditions
+📍 Minneapolis, MN 
+📧 Email: tminnpprk@gmail.com
 
 ---
 
@@ -49,7 +25,7 @@ Bachelor's Degree in Computer Science · Expected 2028
 - Medical imaging preprocessing and longitudinal MRI analysis
 - Deep learning and model development with PyTorch
 - AI-assisted software and product engineering
-- Full-stack mobile development with React Native and Expo
+- Full-stack mobile development
 - Real-time multiplayer systems powered by Supabase
 
 ---
@@ -102,6 +78,16 @@ An exploration of preprocessing and deep-learning workflows for longitudinal mul
 
 ---
 
-## What I'm Building Toward
+## Let's Connect!
 
-I want to develop intelligent systems that are technically rigorous, thoughtfully designed, and genuinely useful—whether they begin with medical images, behavioral data, or an idea for a new mobile experience.
+<p>
+  <a href="linkedin.com/in/mjp1124/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="park2910@umn.edu">
+    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/minn_pprk/">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white">
+  </a>
+</p>
