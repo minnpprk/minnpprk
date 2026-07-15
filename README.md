@@ -74,16 +74,28 @@ An exploration of preprocessing and deep-learning workflows for longitudinal mul
 
 ## Let's Connect!
 
-<p>
-  <a href="https://www.linkedin.com/in/mjp1124/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:park2910@umn.edu">
-    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://www.instagram.com/minn_pprk/">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white">
-  </a>
+<p align="center">
+  I'm always open to connecting with people interested in AI, medical imaging, product development, and creative technology.
 </p>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.linkedin.com/in/mjp1124/">
+        <img src="https://img.shields.io/badge/LinkedIn-MINJAE%20PARK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="mailto:park2910@umn.edu">
+        <img src="https://img.shields.io/badge/Email-PARK2910%40UMN.EDU-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.instagram.com/minn_pprk/">
+        <img src="https://img.shields.io/badge/Instagram-MINN__PPRK-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584" />
+      </a>
+    </td>
+  </tr>
+</table>
