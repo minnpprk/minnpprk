@@ -1,7 +1,7 @@
 # Hey there! I'm Minjae Park 👋
 
 <p align="center">
-  <code>From MRI scans to multiplayer games, I enjoy turning complex real-world problems into creative, human-centered products.</code>
+  <code>I enjoy turning complex real-world problems into creative, human-centered products.</code>
 </p>
 
 ---
