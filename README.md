@@ -58,7 +58,7 @@
 
 *Real-time multiplayer party-game platform that transforms physical movement, sound, timing, and social interaction into shared mobile experiences.*
 
-<a href="YOUR_CROWNED_REPOSITORY_URL">
+<a href="https://github.com/minnpprk/CROWNED">
   <img src="https://img.shields.io/badge/Repository-CROWNED-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
