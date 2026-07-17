@@ -4,7 +4,7 @@
 
 > *"I enjoy turning complex real-world problems into creative, human-centered products."*
 
-🎓 Computer Science Student @ University of Minnesota Twin Cities  
+🎓 Computer Engineering Student @ University of Minnesota Twin Cities  
 🧠 Research Intern @ Yonsei University Medical Imaging AI Lab  
 📱 Building AI-powered and real-time mobile products  
 🪖 Former KATUSA, shaped by adaptability, ownership, and cross-cultural teamwork  
