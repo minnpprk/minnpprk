@@ -139,7 +139,7 @@
     </td>
     <td align="center" width="33%">
       <a href="mailto:tminnpprk@gmail.com">
-        <img src="https://img.shields.io/badge/Email-PARK2910%40UMN.EDU-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F" />
+        <img src="https://img.shields.io/badge/Email-tminnpprk@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F" />
       </a>
     </td>
     <td align="center" width="33%">
