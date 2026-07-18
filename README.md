@@ -89,7 +89,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/NiBabel-Medical_Imaging-6C63FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/DICOM_to_NIfTI-dcm2niix-008080?style=for-the-badge">
 
 **Focus:** 4 MRI modalities | Longitudinal preprocessing | DICOM/NIfTI | Deep-learning preparation
 
